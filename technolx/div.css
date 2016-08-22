@@ -1,0 +1,71 @@
+body
+{
+	width: 100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	position:absolute;
+}
+#header
+{
+	width: 100%;
+	height: 10%;
+	
+	background: black;
+	float:left;
+	position:absolute;
+}
+#left
+{
+	width:60%;
+	height: 110%;
+	
+	background:#49274A;
+	float: left;
+	position:absolute;
+}
+#middle
+{
+	width:35%;
+	height: 110%;
+	
+	background:#94618E;
+	left:30%;
+	position:absolute;
+}
+#right
+{
+	width:40%;
+	height: 110%;
+	
+	background:#F8EEE7;
+	left:60%;
+	position:absolute;
+}
+
+#content
+{
+	width: 100%;
+	height: 80%;
+	
+	background: white;
+	position: absolute;
+	top:10%;
+
+}
+
+#footer
+{
+	width: 100%;
+	height: 20%;
+	
+	background: black;
+	clear: both;
+	top:90%;
+	position:absolute;
+}
+#log
+{
+	position:absolute;
+	left:93%;
+}

@@ -1,0 +1,21 @@
+#upleft 
+{ 
+	width:100px; 
+	height: 500px; 
+	background:red; 
+	float:left;
+}
+#upright 
+{ 
+	width:300px; 
+	height:200px; 
+	background:blue; 
+	float:left 
+}
+#below 
+{ 
+	height:300px; 
+	width:100%; 
+	background:green; 
+	clear:both 
+}
